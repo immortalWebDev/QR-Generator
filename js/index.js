@@ -10,7 +10,7 @@ const generateQRCode = (data) => {
 };
 
 const showPlaceholderQRCode = () => {
-  qrimg.setAttribute("src", generateQRCode("https://www.google.com"));
+  qrimg.setAttribute("src", generateQRCode("https://qr-generate-piyush.vercel.app/"));
   qrcodeContainer.style.display = "flex";
 };
 
