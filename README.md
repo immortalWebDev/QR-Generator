@@ -12,7 +12,6 @@ Welcome to the QR Code Generator app! This simple yet powerful tool allows you t
 
 - Responsive Design: The app looks great on all devices, from mobile phones to desktops.
 
-📸 Screenshots
 
 ### 🚀 Getting Started
 
@@ -24,12 +23,14 @@ To run this app, you only need a web browser!
 No installation is required! Just clone this repository and open the index.html file in your preferred web browser.
 
 
-git clone https://github.com/yourusername/qrcode-generator.git
-Usage
+```git clone https://github.com/immortalWebDev/qrcode-generator.git```
+
+- Usage
 
 Enter the text or URL you want to convert into a QR code in the input field.
 
 Click the Generate QR Code button.
+
 Your QR code will instantly appear in the display area.
 
 ### 🛠️ Technologies Used
@@ -42,16 +43,10 @@ Your QR code will instantly appear in the display area.
 ### 🤝 Contributing
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to create a pull request or open an issue.
 
-- Fork the project
-
-Create your feature branch (git checkout -b feature/AmazingFeature)
-
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a pull request
+- Star and Fork the repo to get most of it
 
 ### 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License
 
 ### 💬 Contact
 If you have any questions or need further assistance, feel free to
